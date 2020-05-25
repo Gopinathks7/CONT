@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23015" started-at="2020-05-25T14:27:20 IST" finished-at="2020-05-25T14:27:43 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23015" started-at="2020-05-25T14:27:20 IST" finished-at="2020-05-25T14:27:43 IST">
+      <class name="CONT.CONT.App">
+        <test-method status="PASS" signature="getBrowser()[pri:0, instance:CONT.CONT.App@382db087]" name="getBrowser" duration-ms="22914" started-at="2020-05-25T14:27:20 IST" finished-at="2020-05-25T14:27:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrowser -->
+      </class> <!-- CONT.CONT.App -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
