@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="23015" started-at="2020-05-25T14:27:20 IST" finished-at="2020-05-25T14:27:43 IST">
+  <suite name="Default suite" duration-ms="111237" started-at="2020-05-27T12:22:11 IST" finished-at="2020-05-27T12:24:03 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="23015" started-at="2020-05-25T14:27:20 IST" finished-at="2020-05-25T14:27:43 IST">
+    <test name="Default test" duration-ms="111237" started-at="2020-05-27T12:22:11 IST" finished-at="2020-05-27T12:24:03 IST">
       <class name="CONT.CONT.App">
-        <test-method status="PASS" signature="getBrowser()[pri:0, instance:CONT.CONT.App@382db087]" name="getBrowser" duration-ms="22914" started-at="2020-05-25T14:27:20 IST" finished-at="2020-05-25T14:27:43 IST">
+        <test-method status="PASS" signature="getBrowser()[pri:0, instance:CONT.CONT.App@38d8f54a]" name="getBrowser" duration-ms="110693" started-at="2020-05-27T12:22:12 IST" finished-at="2020-05-27T12:24:03 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getBrowser -->
       </class> <!-- CONT.CONT.App -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
