@@ -4,13 +4,14 @@ import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class App extends MyReport
 {
    @Test
    public void getBrowser()
@@ -18,7 +19,7 @@ public class App
 	   try
 	   {
         String key="webdriver.chrome.driver";
-        String value="E:\\BrowserDrivers\\chromeDriver.exe";
+        String value="E:\\BrowserDrivers\\common\\chromeDriver.exe";
         System.setProperty(key, value);
         WebDriver driver=new ChromeDriver();
         driver.manage().window().maximize();
