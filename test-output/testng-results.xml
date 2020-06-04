@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30222" started-at="2020-05-29T14:17:45 IST" finished-at="2020-05-29T14:18:15 IST">
+  <suite name="Default suite" duration-ms="27627" started-at="2020-06-02T18:40:44 IST" finished-at="2020-06-02T18:41:12 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30222" started-at="2020-05-29T14:17:45 IST" finished-at="2020-05-29T14:18:15 IST">
+    <test name="Default test" duration-ms="27627" started-at="2020-06-02T18:40:44 IST" finished-at="2020-06-02T18:41:12 IST">
       <class name="CONT.CONT.App">
-        <test-method status="PASS" signature="setExtent()[pri:0, instance:CONT.CONT.App@140e5a13]" name="setExtent" is-config="true" duration-ms="2837" started-at="2020-05-29T14:17:42 IST" finished-at="2020-05-29T14:17:45 IST">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:CONT.CONT.App@140e5a13]" name="setExtent" is-config="true" duration-ms="644" started-at="2020-06-02T18:40:43 IST" finished-at="2020-06-02T18:40:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setExtent -->
-        <test-method status="PASS" signature="getMethodsName(java.lang.reflect.Method)[pri:0, instance:CONT.CONT.App@140e5a13]" name="getMethodsName" is-config="true" duration-ms="13" started-at="2020-05-29T14:17:45 IST" finished-at="2020-05-29T14:17:45 IST">
+        <test-method status="PASS" signature="getMethodsName(java.lang.reflect.Method)[pri:0, instance:CONT.CONT.App@140e5a13]" name="getMethodsName" is-config="true" duration-ms="17" started-at="2020-06-02T18:40:44 IST" finished-at="2020-06-02T18:40:44 IST">
           <params>
             <param index="0">
               <value>
@@ -22,11 +22,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getMethodsName -->
-        <test-method status="PASS" signature="getBrowser()[pri:0, instance:CONT.CONT.App@140e5a13]" name="getBrowser" duration-ms="30097" started-at="2020-05-29T14:17:45 IST" finished-at="2020-05-29T14:18:15 IST">
+        <test-method status="PASS" signature="getBrowser()[pri:0, instance:CONT.CONT.App@140e5a13]" name="getBrowser" duration-ms="27465" started-at="2020-06-02T18:40:44 IST" finished-at="2020-06-02T18:41:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getBrowser -->
-        <test-method status="PASS" signature="getFailedMethod(org.testng.ITestResult)[pri:0, instance:CONT.CONT.App@140e5a13]" name="getFailedMethod" is-config="true" duration-ms="11" started-at="2020-05-29T14:18:15 IST" finished-at="2020-05-29T14:18:15 IST">
+        <test-method status="PASS" signature="getFailedMethod(org.testng.ITestResult)[pri:0, instance:CONT.CONT.App@140e5a13]" name="getFailedMethod" is-config="true" duration-ms="14" started-at="2020-06-02T18:41:12 IST" finished-at="2020-06-02T18:41:12 IST">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getFailedMethod -->
-        <test-method status="PASS" signature="closingReport()[pri:0, instance:CONT.CONT.App@140e5a13]" name="closingReport" is-config="true" duration-ms="2111" started-at="2020-05-29T14:18:15 IST" finished-at="2020-05-29T14:18:18 IST">
+        <test-method status="PASS" signature="closingReport()[pri:0, instance:CONT.CONT.App@140e5a13]" name="closingReport" is-config="true" duration-ms="538" started-at="2020-06-02T18:41:12 IST" finished-at="2020-06-02T18:41:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closingReport -->
